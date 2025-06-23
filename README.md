@@ -4,7 +4,7 @@ This project is part of an AI & ML Internship Task — focused on data cleaning 
 
 
 
-## 📌 Objective
+##  Objective
 
 To clean and preprocess raw Titanic dataset by:
 - Handling missing values
@@ -14,7 +14,7 @@ To clean and preprocess raw Titanic dataset by:
 
 
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python 
 - Pandas
@@ -32,7 +32,7 @@ To clean and preprocess raw Titanic dataset by:
 - Cleaned file: `cleaned_titanic.csv` (auto-generated after script runs)
 
 
-## 🧪 Project Workflow
+##  Project Workflow
 
 1. Load dataset
 2. Explore data: missing values, data types, basic stats
